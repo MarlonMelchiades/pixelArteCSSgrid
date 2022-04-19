@@ -1,0 +1,64 @@
+h3 {
+  margin: 0;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(96, 1fr);
+  height: 90vh;
+  width: 90px;
+}
+
+#box {
+  width: 12px;
+  height: 12px;
+  font-size: 4px;
+}
+
+.box299,.box300,.box301,.box302,.box393,.box394,.box395,.box396,.box397,.box398,.box399,.box400,.box489,.box490,
+.box491,.box492,.box493,.box494,.box495,.box496,.box497,.box584,.box585,.box586,.box589,.box590,.box591,.box592,
+.box593,.box778,.box874,.box781,.box877,.box680,.box681,.box776,.box879,.box975,.box1071,.box686,.box687,.box688,
+.box689,.box690,.box783,.box1066,.box1067,.box1068,.box1069,.box1162,.box1258,.box1259,.box1260,.box1261,.box1165,
+.box1355,.box1356,.box1357,.box1166,.box1262,.box1167,.box784,.box785,.box786,.box881,.box882,.box977,.box978,.box072,
+.box1073,.box1074,.box1168,.box1169,.box1264,.box1265,.box1360,.box1072
+ {
+  background-color: #8a6a4b;
+}
+
+.box587,.box588,.box682,.box683,.box684,.box685,.box777,.box873,.box969,.box1065,.box970,.box971,.box972,.box973,
+.box974,.box779,.box780,.box875,.box876,.box878,.box782,.box1070,.box1163,.box1164,.box976,.box880,.box1453,.box1454,
+.box1358,.box1359,.box1263,.box1925,.box1926,.box2021,.box2022,.box2227,.box2228,.box2323,.box2324,.box3083,.box3084,
+.box3090,.box3091
+{
+  background-color: #fec18b;
+}
+
+.box1451,.box1452,.box1546,.box1547,.box1548,.box1549,.box1643,.box1644,.box1645,.box1646,.box1739,.box1740,.box1741,
+.box1742,.box1743,.box1836,.box1837,.box1838,.box1839,.box1840,.box1932,.box1933,.box1934,.box1935,.box1936,.box2028,
+.box2029,.box2030,.box2031,.box2032,.box2314,.box2410,.box2221,.box2222,.box2223,.box2224,.box2225,.box2317,.box2318,
+.box2319,.box2320,.box2321,.box2322,.box2418,.box2514,.box2611,.box2707,.box2803,.box2900,.box2996,.box2414,.box2510,
+.box2606,.box2991,.box2895,.box2799,.box2703,.box2992,.box2993,.box2994,.box2995,.box2896,.box2897,.box2898,.box2899,
+.box2800,.box2801,.box2802,.box2704,.box2705,.box2706,.box2607,.box2608,.box2609,.box2610,.box2511,.box2512,.box2513,
+.box2415,.box2416,.box2417
+{
+  background-color: #e21d15;
+}
+
+.box1927,.box1832,.box1737,.box1642,.box2118,.box2119,.box2120,.box2121,.box2122,.box2123,.box1738,.box1833,.box1834,
+.box1835,.box1928,.box1929,.box1930,.box1931,.box2023,.box2024,.box2025,.box2026,.box2027,.box1361,.box1457,.box1554,
+.box1651,.box1747,.box1844,.box1940,.box2036,.box2132,.box2130,.box2131,.box1455,.box1456,.box1550,.box1551,.box1552,
+.box1553,.box1647,.box1648,.box1649,.box1650,.box1744,.box1745,.box1746,.box1841,.box1842,.box1843,.box1937,.box1938,
+.box1939,.box2033,.box2034,.box2035,.box2216,.box2217,.box2218,.box2219,.box2220,.box2315,.box2316,.box2411,.box2412,
+.box2413,.box2226,.box2507,.box2508,.box2509,.box2986,.box2987,.box2988,.box2989,.box2990,.box2890,.box2891,.box2892,
+.box2893,.box2894,.box2794,.box2795,.box2796,.box2797,.box2798,.box2698,.box2699,.box2700,.box2701,.box2702,.box2602,
+.box2603,.box2604,.box2605
+{
+  background-color: #ececec;
+}
+
+.box2124,.box2125,.box2126,.box2127,.box2128,.box2129,.box3082,.box3177,.box3178,.box3179,.box3180,.box3089,.box3184,
+.box3185,.box3186,.box3187,.box2117,.box2213,.box3077,.box2981,.box2885,.box2789,.box2693,.box2597,.box2501,.box2405,
+.box2309,.box3173,.box1829,.box1733,.box1637,.box1541,.box1540,.box1444,.box1348,.box1252,.box1254,.box1253,.box1350
+{
+  background-color: #8b6a49;
+}
