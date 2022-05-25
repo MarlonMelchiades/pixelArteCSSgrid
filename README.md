@@ -1,2 +1,2 @@
 # Pixel Art of Jesus!
-Pixel art of Jesus made with css grid and javascript!
+Pixel art de Jesus feito com CSS Grid e javascript!
